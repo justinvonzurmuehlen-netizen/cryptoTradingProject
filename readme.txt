@@ -1,0 +1,1 @@
+This is a C++ programming project where the goal is to create a crypto trading platform. This is based on the University of London course C++ Programming: Classes and Data.
